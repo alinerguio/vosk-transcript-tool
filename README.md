@@ -1,4 +1,4 @@
-# Vosk Trascript Tool usage for Brazilian Portuguese
+# Vosk API usage for Portuguese
 
 ## Goal
 
@@ -42,9 +42,6 @@ About the configurations of the kaldi recognizer, in this case, was used the max
 | 234.278381 | [{'end': 1.35, 'start': 0.93, 'word': 'aquela'},  {'end': 1.77, 'start': 1.35, 'word': 'mulher'},  {'end': 2.85, 'start': 2.1, 'word': 'portuguesa'}]                                              | aquela mulher portuguesa   |
 | 232.921143	 | [{'end': 1.35, 'start': 0.93, 'word': 'aquela'},  {'end': 1.77, 'start': 1.35, 'word': 'mulher'},  {'end': 2.07, 'start': 1.98, 'word': 'é'},  {'end': 2.85, 'start': 2.07, 'word': 'portuguesa'}] | aquela mulher é portuguesa |
 
-### Evaluating 
-
-This topic is being worked on.
 
 ## Executing scripts
 
