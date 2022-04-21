@@ -1,0 +1,9 @@
+/env/
+/__pycache__/
+/data/
+#/model/
+/.DS_Store
+/.ipynb_checkpoints/
+/real-transcriptions/
+/vosk-transcriptions/
+#/transcriptions/
